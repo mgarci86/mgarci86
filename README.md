@@ -5,7 +5,7 @@
   - [Conduct an Internal Security Audit](https://github.com/mgarci86/InternalSecurityAudit/blob/main/README.md)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
