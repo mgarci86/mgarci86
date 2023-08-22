@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Conduct an internal security audit (https://github.com/mgarci86/InternalSecurityAudit/blob/main/README.md)
+- [Conduct an internal security audit](https://github.com/mgarci86/InternalSecurityAudit/blob/main/README.md)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
