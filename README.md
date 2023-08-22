@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mike! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/michael-garcia-01907a287/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+ 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+  - [Conduct an Internal Security Audit](https://github.com/mgarci86/InternalSecurityAudit/blob/main/README.md)
 - [Conduct an internal security audit](https://github.com/mgarci86/InternalSecurityAudit/blob/main/README.md)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
